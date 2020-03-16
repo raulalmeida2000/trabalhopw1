@@ -1,1 +1,28 @@
-
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title> MEGA INSTRUMENTS </TITLE>
+  
+  
+  </head>
+  <body>
+  <nav>
+  <ul class="menu">
+        <li><a href="#">Home</a></li>
+            <li><a href="#">Instrumentos</a>
+                <ul>
+                      <li><a href="#"> Violões e Guitarras </a></li>
+                      <li><a href="#"> Baixos </a></li>
+                      <li><a href="#"> Baterias </a></li>      
+                </ul>
+                     <li><a href="#">Acessórios</a></li>
+            </li>
+        <li><a href="#">Links</a></li>
+        <li><a href="#">Contato</a></li>                
+</ul>
+</nav>
+  
+  
+  
+  </body>
